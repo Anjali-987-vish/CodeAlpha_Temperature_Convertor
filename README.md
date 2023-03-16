@@ -1,2 +1,2 @@
 # Temperature-Converter
-Temperature Converter is an app which You can Use to convert the temperature to Fahrenheit . 
+Here,Temperature Converter is created using html css and javascript, which You can Use to convert the temperature to Fahrenheit . 
