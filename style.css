@@ -8,10 +8,7 @@
     font-size: 18px;
 }
 body{
-    /* background-color:rgb(228, 100, 237); */
-    background-image: url('pic.img.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
+     background-color:rgb(5,5,79); 
 }
 .wrapper{
     width: 350px;
